@@ -6,9 +6,11 @@ Repository to share and update the latest learnings in terms of setting up RadSe
 
 To get started with setting up RadSec and Dynamic Peer Discovery through DNS for OpenRoaming, follow the steps in the provided documentation:
 
-1. **FreeRADIUS Configuration**: Detailed in `OR-config-FreeRADIUS.pdf`.
-2. **RadSec Proxy Configuration**: Detailed in `OR-config-radsecproxy.pdf`.
+1. **FreeRADIUS Server Configuration**: Detailed in `OR-config-FreeRADIUS.pdf`.
+2. **RadSec Proxy Server Configuration**: Detailed in `OR-config-radsecproxy.pdf`.
 3. **Raspberry Pi Passpoint Client Setup**: Guide available in `rpi-passpoint-client.md`.
+4. **Linux/Docker Passpoint Host Setup**: Guide available in `linux-passpoint-host.md`.
+5. **OpenWRT Passpoint Host Setup**: Guide available in `openwrt-passpoint-host.md`.
 
 ### Configs
 
