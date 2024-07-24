@@ -10,7 +10,7 @@ This guide is to enable a **Raspberry PI** to be used as a Passpoint/OpenRoaming
 * A guide on how to enable OpenRoaming Access Point/RadSec proxy on a microtik is available here:
  - https://wkumari.dev/2023/10/16/mikrotik-openroaming
 
-!["Raspberry PI with USB dongle"](https://github.com/mark-grayson/rpi4/blob/main/RPI_Passpoint.png)
+!["Raspberry PI with USB dongle"](https://github.com/simeononsecurity/openroaming-config/blob/patch-1/assets/RPI_Passpoint.png?raw=true)
 
 ## Raspberry PI Model and OS 
 
