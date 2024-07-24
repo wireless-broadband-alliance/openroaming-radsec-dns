@@ -1,5 +1,7 @@
 # Configuring a Raspberry PI to be a Wi-Fi Host (End-User device) enabled for Passpoint (and OpenRoaming)
 
+!["Raspberry PI with USB dongle"](https://github.com/wireless-broadband-alliance/openroaming-config/blob/main/assets/RPI_Passpoint.png?raw=true)
+
 ## Introduction
 
 This guide is to enable a **Raspberry PI** to be used as a Passpoint/OpenRoaming **End-User device**. 
@@ -9,8 +11,6 @@ This guide is to enable a **Raspberry PI** to be used as a Passpoint/OpenRoaming
  - https://simeononsecurity.com/guides/unlock-seamless-connectivity-hotspot-2.0-openwrt/
 * A guide on how to enable OpenRoaming Access Point/RadSec proxy on a microtik is available here:
  - https://wkumari.dev/2023/10/16/mikrotik-openroaming
-
-!["Raspberry PI with USB dongle"](https://github.com/simeononsecurity/openroaming-config/blob/patch-1/assets/RPI_Passpoint.png?raw=true)
 
 ## Raspberry PI Model and OS 
 
