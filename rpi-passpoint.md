@@ -6,10 +6,10 @@
 
 This guide is to enable a **Raspberry PI** to be used as a Passpoint/OpenRoaming **End-User device**. 
 
-* Guides on how to enable OpenRoaming on an OpenWrt End-User device are available here:
+- Guides on how to enable OpenRoaming on an OpenWrt End-User device are available here:
  - https://github.com/hgot07/openwrt-passpoint
  - https://simeononsecurity.com/guides/unlock-seamless-connectivity-hotspot-2.0-openwrt/
-* A guide on how to enable OpenRoaming Access Point/RadSec proxy on a microtik is available here:
+- A guide on how to enable OpenRoaming Access Point/RadSec proxy on a microtik is available here:
  - https://wkumari.dev/2023/10/16/mikrotik-openroaming
 
 ## Raspberry PI Model and OS 
